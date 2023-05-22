@@ -1,0 +1,3 @@
+http://migranitodejava.blogspot.com/2011/06/composite.html
+https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/patron-composite/
+https://www.ecured.cu/Composite#Ventajas_e_Inconvenientes

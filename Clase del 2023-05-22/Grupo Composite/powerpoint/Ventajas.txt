@@ -1,0 +1,5 @@
+Este patrón tiene como ventaja la simplificacion y abstraccion de una familia de clases lo que permite su uso de manera mas simple ya que no es necesario el conocimiento de sobre qué clase se está trabajando, pero será posible asegurar que contiene los elementos de la interfaz.
+
+Las desventajas de este patrón es que el diseño de las clases se vuelve muy genérico pudiendo llegar a generar confusion a la hora de hacer cmabios en las mismas.
+
+Sin el patrón se tendrían que crear por lo menos 2 clases distintas y no sería posible hacer referencia a ambas a la vez. Se tendrían que repetir código y el usuario de la familia de clases deberá de saber con qué clase está trabajando.
